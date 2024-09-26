@@ -1,0 +1,21 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    
+}
+table{
+    margin-top: 100px;
+    margin-left: 340px;
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: rgb(240, 126, 240);
+}
+tr:nth-child(even){
+    background-color: grey;
+}
+#first{
+    background-color: black;
+    color: white;
+}
